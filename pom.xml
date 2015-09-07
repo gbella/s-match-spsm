@@ -9,7 +9,7 @@
 
     <artifactId>s-match-spsm</artifactId>
     <packaging>jar</packaging>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>2.0.0-NUSM-SNAPSHOT</version>
     <name>S-Match SPSM</name>
     <description>S-Match SPSM contains classes for structure-preserving semantic matching.</description>
 
